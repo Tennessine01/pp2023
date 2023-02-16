@@ -11,4 +11,5 @@ Student Info
 
 * Student Name: Lương Khôi Nguyên 
 * Student ID: BA11-079
+* Group: 1
 
