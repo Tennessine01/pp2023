@@ -9,7 +9,7 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Lương Khôi Nguyên 
+* Student Name: Luong Khoi Nguyen
 * Student ID: BA11-079
 * Group: 1
 
